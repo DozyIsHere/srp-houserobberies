@@ -16,38 +16,37 @@ Config.Rewards = {
         ["cabin"] = {"plastic", "diamond_ring", "goldchain", "weed_skunk", "thermite", "cryptostick", "weapon_golfclub"},
         ["kitchen"] = {"tosti", "sandwich", "goldchain"},
         ["chest"] = {"plastic", "rolex", "diamond_ring", "goldchain", "weed_skunk", "thermite", "cryptostick", "weapon_combatpistol"},
-        ["livingroom"] = {"plastic", "rolex", "diamond_ring", "goldchain", "thermite", "cryptostick", "tablet", "pistol_ammo"}
+        ["livingroom"] = {"plastic", "rolex", "diamond_ring", "goldchain", "pistol_ammo"}
     },
-	
 	[2] = {
-        ["cabin"] = {"advancedlockpick", "diamond_ring", "goldchain", "weed_white-widow", "thermite", "cryptostick", "advancedrepairkit"},
+        ["cabin"] = {"advancedlockpick", "diamond_ring", "goldchain", "advancedrepairkit"},
         ["kitchen"] = {"tosti", "sandwich", "goldchain"},
-        ["chest"] = {"advancedlockpick", "rolex", "diamond_ring", "goldchain", "weed_white-widow", "xtcbaggy", "cryptostick", "weapon_knife"},
-        ["livingroom"] = {"advancedlockpick", "rolex", "diamond_ring", "goldchain", "thermite", "cryptostick", "tablet", "pistol_ammo"}
+        ["chest"] = {"advancedlockpick", "rolex", "diamond_ring", "goldchain", "weapon_knife"},
+        ["livingroom"] = {"advancedlockpick", "rolex", "diamond_ring", "goldchain", "pistol_ammo"}
     },
 	[3] = {
-        ["cabin"] = {"trojan_usb", "diamond_ring", "goldchain", "weed_purple-haze", "thermite", "advancedlockpick", "weapon_golfclub"},
+        ["cabin"] = {"diamond_ring", "goldchain", "advancedlockpick", "weapon_golfclub"},
         ["kitchen"] = {"tosti", "sandwich", "goldchain"},
-        ["chest"] = {"trojan_usb", "rolex", "diamond_ring", "goldchain", "weed_purple-haze", "thermite", "cryptostick", "weapon_machete"},
-        ["livingroom"] = {"trojan_usb", "rolex", "diamond_ring", "goldchain", "thermite", "cryptostick", "tablet", "pistol_ammo"}
+        ["chest"] = {"rolex", "diamond_ring", "goldchain", "cryptostick", "weapon_machete"},
+        ["livingroom"] = {"rolex", "diamond_ring", "goldchain", "pistol_ammo"}
     },
 	[4] = {
-        ["cabin"] = {"gatecrack", "diamond_ring", "goldchain", "weed_og-kush", "thermite", "cryptostick", "weapon_golfclub"},
+        ["cabin"] = {"diamond_ring", "goldchain", "weapon_golfclub"},
         ["kitchen"] = {"tosti", "sandwich", "goldchain"},
-        ["chest"] = {"gatecrack", "rolex", "diamond_ring", "goldchain", "weed_og-kush", "thermite", "cryptostick", "weapon_wrench"},
-        ["livingroom"] = {"gatecrack", "rolex", "diamond_ring", "goldchain", "thermite", "cryptostick", "tablet", "pistol_ammo"}
+        ["chest"] = {"gatecrack", "rolex", "diamond_ring", "goldchain", "weapon_wrench"},
+        ["livingroom"] = {"gatecrack", "rolex", "diamond_ring", "goldchain", "pistol_ammo"}
     },
 	[5] = {
-        ["cabin"] = {"electronickit", "diamond_ring", "goldchain", "weed_amnesia", "thermite", "cryptostick", "weapon_knuckle"},
+        ["cabin"] = {"markedbills", "diamond_ring", "goldchain", "weed_amnesia", "thermite", "cryptostick", "weapon_knuckle"},
         ["kitchen"] = {"tosti", "sandwich", "goldchain"},
         ["chest"] = {"electronickit", "rolex", "diamond_ring", "goldchain", "weed_amnesia", "thermite", "cryptostick", "weapon_bat"},
-        ["livingroom"] = {"electronickit", "rolex", "diamond_ring", "goldchain", "thermite", "cryptostick", "tablet", "pistol_ammo"}
+        ["livingroom"] = {"electronickit", "rolex", "diamond_ring", "goldchain", "pistol_ammo"}
     },
 	[6] = {
-       ["cabin"] = {"drill", "diamond_ring", "goldchain", "weed_ak47", "thermite", "cryptostick", "weapon_golfclub"},
+        ["cabin"] = {"diamond_ring", "goldchain", "weapon_golfclub"},
         ["kitchen"] = {"tosti", "sandwich", "goldchain"},
-        ["chest"] = {"drill", "rolex", "diamond_ring", "goldchain", "weed_ak47", "thermite", "cryptostick", "weapon_combatpistol"},
-        ["livingroom"] = {"drill", "rolex", "cokebaggy", "goldchain", "thermite", "cryptostick", "tablet", "pistol_ammo"}
+        ["chest"] = {"harness", "rolex", "diamond_ring", "goldchain", "noscan", "usb_green","weapon_combatpistol"},
+        ["livingroom"] = {"drill", "rolex", "cokebaggy", "goldchain", "pistol_ammo"}
     },
 	
 }

@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'md-HouseRobberies updated from qb-houserobbery'
+description 'srp-HouseRobberies updated from md-houserobbery'
 version '1.0.0'
 
 shared_scripts {
